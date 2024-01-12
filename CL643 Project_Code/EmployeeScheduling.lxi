@@ -1,0 +1,22 @@
+B 3 C o m p i l a t i o n
+B 88 Equation Listing    SOLVE EmployeeScheduling Using MIP From line 77
+D 91 ShiftRequirements1
+D 102 ShiftRequirements2
+D 113 ShiftRequirementsME1
+D 124 ShiftRequirementsME2
+D 135 OneShiftPerDay
+D 146 MaxWorkingDays
+D 157 SameShiftM
+D 168 SameShiftE
+D 179 ShiftRotationM
+D 190 ShiftRotationE
+D 201 OvertimeLimit
+D 212 ObjectiveFunction
+B 218 Column Listing      SOLVE EmployeeScheduling Using MIP From line 77
+E 221 var_M
+E 258 var_E
+E 295 var_O
+E 320 Z
+B 328 Range Statistics    SOLVE EmployeeScheduling Using MIP From line 77
+B 339 Model Statistics    SOLVE EmployeeScheduling Using MIP From line 77
+B 352 Solution Report     SOLVE EmployeeScheduling Using MIP From line 77
